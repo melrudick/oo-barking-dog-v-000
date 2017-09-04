@@ -6,7 +6,7 @@ class Dog
   end
 
   def name
-  fide.ne
+    @name
 end
 
   def bark
