@@ -9,7 +9,9 @@ class Dog
     @name
   end
 
+  def bark
 
+  end
 
 end
 
