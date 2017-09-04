@@ -13,7 +13,7 @@ end
     puts "woof!"
 end
 
-  
+
 end
 
 fido = Dog.new
