@@ -6,19 +6,19 @@ class Dog
   end
 
   def name
-    @name
+  fide.ne
 end
 
   def bark
     puts "woof!"
 end
 
-  def bark
-    @bark
-  end
+  
 end
 
-# fido.name = Dog.new
-#
+fido = Dog.new
+fido.name = "Fido"
+fido.bark
+
 # Write a getter method, .name that returns an individual dog's name.
 # Write a method, .bark, that puts "woof!" when called on an instance of Dog.
