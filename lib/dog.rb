@@ -4,18 +4,19 @@ class Dog
   def name=(name)
     @name = name
   end
-
-
+  
   def name
     @name
 end
+
   def bark
     puts "Woof!"
 end
- def bark
-   @bark
+
+  def bark
+    @bark
+  end 
 end
- end
 
 # fido.name = Dog.new
 #
